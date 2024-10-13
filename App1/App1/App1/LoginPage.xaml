@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.LoginPage">
+    <ContentPage.Content>
+        <StackLayout Padding="16">
+        <Label Text="Login"
+               FontSize="50"
+               FontAttributes="Bold"
+               TextColor="#FFD154"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+        <Entry x:Name="emailLogin"
+               Placeholder="Email"
+               Keyboard="Email" />
+
+        <Entry x:Name="passwordLogin"
+               Placeholder="Password"
+               IsPassword="True" />
+
+        <Button Text="Submit Login"
+                Margin="0,16,0,0"
+                Clicked="OnLoginButtonClicked" />
+        <!-- Sự kiện Clicked -->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

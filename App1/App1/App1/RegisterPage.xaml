@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.RegisterPage">
+    <ContentPage.Content>
+        <StackLayout Padding="16">
+            <Label Text="Register"
+               FontSize="50"
+               FontAttributes="Bold"
+               TextColor="#FFD154"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+            <Entry x:Name="usernameEntry"
+               Placeholder="Username"
+               Keyboard="Text" />
+
+            <Entry x:Name="emailEntry"
+               Placeholder="Email"
+               Keyboard="Email" />
+
+            <Entry x:Name="passwordEntry"
+               Placeholder="Password"
+               IsPassword="True" />
+
+            <Entry x:Name="repeatPasswordEntry"
+               Placeholder="Repeat Password"
+               IsPassword="True" />
+
+            <Button Text="Submit"
+                Margin="0,16,0,0"
+                Clicked="OnRegisterButtonClicked" />
+            <!-- Sự kiện Clicked -->
+
+            <Label Text="Already have an account? Login here."
+               HorizontalOptions="Center"
+               VerticalOptions="EndAndExpand"
+               TextColor="Blue">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnLoginLabelTapped" />
+                </Label.GestureRecognizers>
+            </Label>
+            <!-- Thêm Label cho chuyển hướng -->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\app1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\app1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB40DBC-D1EF-4EE9-9D8F-9EE5BB39D2C6}|App1\\App1.Android\\App1.Android.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB40DBC-D1EF-4EE9-9D8F-9EE5BB39D2C6}|App1\\App1.Android\\App1.Android.csproj|solutionrelative:app1\\app1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|d:\\mystudyspace\\hk7\\mobile\\seminar_banking\\app1\\app1\\app1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6DBE0A-B34E-4A82-B9B4-97DFEAA5344D}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 21,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\HomePage.xaml.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\HomePage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\HomePage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:23:07.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\HomePage.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\HomePage.xaml",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\HomePage.xaml*",
+              "RelativeToolTip": "App1\\App1\\HomePage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T07:18:35.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\App.xaml.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:59:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "App1\\App1.Android\\MainActivity.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1.Android\\MainActivity.cs",
+              "RelativeToolTip": "App1\\App1.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:59:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\App.xaml",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App.xaml",
+              "RelativeToolTip": "App1\\App1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T06:59:19.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\RegisterPage.xaml.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:51:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\LoginPage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:33:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\LoginPage.xaml",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\LoginPage.xaml",
+              "RelativeToolTip": "App1\\App1\\LoginPage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T06:31:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App1",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App1.csproj",
+              "RelativeDocumentMoniker": "App1\\App1\\App1.csproj",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\App1.csproj",
+              "RelativeToolTip": "App1\\App1\\App1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T06:31:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\MainPage.xaml.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\MainPage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:31:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\MainPage.xaml",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\MainPage.xaml",
+              "RelativeToolTip": "App1\\App1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T06:31:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\myStudySpace\\hk7\\mobile\\seminar_banking\\App1\\App1\\App1\\AssemblyInfo.cs",
+              "RelativeToolTip": "App1\\App1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T06:31:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
